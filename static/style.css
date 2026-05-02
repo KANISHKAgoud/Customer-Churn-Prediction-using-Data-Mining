@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f4f4f4;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    padding:30px;
+}
+
+h1{
+    text-align:center;
+    color:#333;
+    margin-bottom:40px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.accuracy{
+    font-size:40px;
+    color:green;
+    font-weight:bold;
+}
+
+pre{
+    overflow-x:auto;
+    font-size:15px;
+}
